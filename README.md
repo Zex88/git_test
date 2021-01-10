@@ -1,1 +1,1 @@
-This is Jacob's fist git project!
+This is Jacob's first git project!
